@@ -4,6 +4,8 @@ public class CatchByExceptionKindExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// ¥Ÿ¡ﬂ catch
+		
 		try {
 			String data1 =args[0];
 			String data2 =args[1];

@@ -4,7 +4,8 @@ public class ThrowsExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// 예외 처리 떠넘기기 
+		
+		 // 예외 처리 떠넘기기 
 		try {
 			findClass();
 		} catch(ClassNotFoundException e) {

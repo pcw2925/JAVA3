@@ -4,6 +4,9 @@ public class TryCatchFinallyRuntime {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//실행 예외 처리
+		
+		
 		String data1 =null;
 		String data2 =null;
 		
